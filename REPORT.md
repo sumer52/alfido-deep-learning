@@ -3,7 +3,7 @@
 **Candidate/Intern:** [Enter full name]  
 **Internship ID:** [Enter ID]  
 **Submission date:** [Enter date]  
-**GitHub repository:** [Paste repository URL after upload]  
+**GitHub repository:** https://github.com/sumer52/alfido-deep-learning  
 **Model download:** [Paste model URL after upload, if used]
 
 ## 1. Objective
