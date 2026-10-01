@@ -2,6 +2,14 @@
 
 Capture only real outputs after completing the full run. Recommended screenshots:
 
+All ten captures below were generated from real artifacts. `01`–`03`, `06`, `07`, and `10` render from `logs/`, `results/`, and live command output — regenerate them any time with:
+
+```bash
+.test-venv/Scripts/python.exe screenshots/make_screenshots.py
+```
+
+`04` and `05` are copies of `results/training_curves.png` and `results/confusion_matrix.png`; `08` and `09` are headless-Chrome captures of the live repository pages.
+
 1. **Project structure** — terminal `tree -a -I 'venv|raw|__pycache__'` output.
 2. **Dataset exploration** — notebook sample grid and class-distribution chart.
 3. **Training output** — terminal showing multiple epochs and best validation checkpoint.
