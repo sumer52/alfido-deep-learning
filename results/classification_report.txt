@@ -1,0 +1,30 @@
+Evaluation metrics
+{
+  "run_mode": "full",
+  "test_samples": 10000,
+  "accuracy": 0.9105,
+  "macro_precision": 0.9105472943173576,
+  "macro_recall": 0.9104999999999999,
+  "macro_f1": 0.9103371359447555,
+  "weighted_precision": 0.9105472943173574,
+  "weighted_recall": 0.9105,
+  "weighted_f1": 0.9103371359447557
+}
+
+Classification report
+              precision    recall  f1-score   support
+
+    airplane     0.9041    0.9240    0.9139      1000
+  automobile     0.9555    0.9440    0.9497      1000
+        bird     0.9241    0.8770    0.8999      1000
+         cat     0.8338    0.8080    0.8207      1000
+        deer     0.8899    0.9130    0.9013      1000
+         dog     0.8528    0.8630    0.8579      1000
+        frog     0.9198    0.9520    0.9356      1000
+       horse     0.9503    0.9180    0.9339      1000
+        ship     0.9434    0.9500    0.9467      1000
+       truck     0.9318    0.9560    0.9437      1000
+
+    accuracy                         0.9105     10000
+   macro avg     0.9105    0.9105    0.9103     10000
+weighted avg     0.9105    0.9105    0.9103     10000

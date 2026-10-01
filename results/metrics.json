@@ -1,0 +1,11 @@
+{
+  "run_mode": "full",
+  "test_samples": 10000,
+  "accuracy": 0.9105,
+  "macro_precision": 0.9105472943173576,
+  "macro_recall": 0.9104999999999999,
+  "macro_f1": 0.9103371359447555,
+  "weighted_precision": 0.9105472943173574,
+  "weighted_recall": 0.9105,
+  "weighted_f1": 0.9103371359447557
+}

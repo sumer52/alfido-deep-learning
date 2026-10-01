@@ -1,0 +1,10 @@
+torch==2.7.1
+torchvision==0.22.1
+numpy==2.2.6
+pandas==2.3.0
+matplotlib==3.10.3
+seaborn==0.13.2
+scikit-learn==1.7.0
+Pillow==11.2.1
+jupyter==1.1.1
+notebook==7.4.3
